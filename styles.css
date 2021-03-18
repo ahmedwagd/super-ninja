@@ -1,0 +1,9 @@
+:root {
+	background-color: teal;
+	color: white;
+	text-align: center;
+}
+p {
+	font-weight: bold;
+	font-size: 22px;
+}
